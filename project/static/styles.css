@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: #f8f9fa;
+}
+
+#image-grid {
+    display: grid;
+    margin: 20px auto;
+    gap: 1px;
+    justify-content: center;
+}
+
+.pixel-box {
+    width: 20px;
+    height: 20px;
+    background-color: #ccc;
+    cursor: pointer;
+}
+
+.revealed {
+    border: 1px solid #000;
+}
