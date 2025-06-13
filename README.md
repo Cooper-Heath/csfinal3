@@ -13,3 +13,6 @@ Instructions:
     Select a file
     Click the "Upload" button
     Start clicking
+
+project.py - handles image processing
+script.js - handles button clicks
